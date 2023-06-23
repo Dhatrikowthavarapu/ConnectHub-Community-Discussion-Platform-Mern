@@ -1,6 +1,6 @@
 export const api = {  
-  tagsEndPoint: 'http://localhost:5000/tags/',
-  usersEndPoint: 'http://localhost:5000/users/',
-  postsEndPoint: 'http://localhost:5000/posts/',
-  repliesEndPoint: 'http://localhost:5000/reply/',
+  tagsEndPoint: 'http://3.141.193.97:4000/',
+  usersEndPoint: 'http://3.141.193.97:4000/',
+  postsEndPoint: 'http://3.141.193.97:4000/',
+  repliesEndPoint: 'http://3.141.193.97:4000/',
 }
